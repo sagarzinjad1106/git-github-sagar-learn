@@ -17,3 +17,22 @@ git init
   18 git restore testing.py
   19 git status
   20 ls
+
+  2 git status
+   3 ls
+   4 git remote add origin https://github.com/sagarzinjad1106/git-github-sagar-learn.git
+   5 git remote -v
+   6 git branch -M main
+   7 git push -u origin main
+   8 git remove -v
+   9 git remote -v
+  10 git remote -v
+  11 git remote set-url origin https://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github.com/sagarzinjad1106/git-github-sagar-l... 
+  12 git remote -v
+  13 git push origin master
+  14 git branch -M master
+  15 git remote set-url origin https://github.com/sagarzinjad1106/git-github-sagar-learn.git
+  16 git remote -v
+  17 git push origin master
+
+  
